@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Bryan3D/proREADMEgenApp#readme",
   "dependencies": {
+    "inquirer": "^9.1.4",
+    "node-fetch": "^2.6.7",
     "requirer": "^0.0.4"
-  }
+  },
+  "keywords": []
 }

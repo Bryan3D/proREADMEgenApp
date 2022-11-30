@@ -6,6 +6,8 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 ## User Story
 
+```md
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
+

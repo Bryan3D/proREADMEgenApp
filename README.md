@@ -1,2 +1,2 @@
 # proREADMEgenApp
-Professional README.md generator App
+Professional README.md Generator App

@@ -1,0 +1,22 @@
+{
+  "name": "proreadmegenapp",
+  "version": "1.0.0",
+  "description": "Proffesional README Generator App",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan3D/proREADMEgenApp.git"
+  },
+  "author": "Bryan A Quero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bryan3D/proREADMEgenApp/issues"
+  },
+  "homepage": "https://github.com/Bryan3D/proREADMEgenApp#readme",
+  "dependencies": {
+    "requirer": "^0.0.4"
+  }
+}

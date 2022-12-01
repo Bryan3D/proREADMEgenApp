@@ -4,17 +4,8 @@ const inquirer = require('inquirer');
 //  file system requirer
 const fs = require('fs');
 
-const generateMarkdown = ({ name, description, tableOf, hyperLink }) => `
-# ${name}
---
-## Description
-${description}
-## Table of Contents
-${tableOf}
-## Website link
-${hyperLink}
-`;
-
+// Markdown document generator
+const generateMarkdown = ({ name, description, tableOf, hyperLink }) => '\n# ' + name + ' \n---\n## Table of Contents\n---\n    -' + tableOf + '\n    \n## Project Description\n--- ' + description + '\n\n\n\n## Website project link\n---\n[Link here](' + hyperLink + ')\n\n';
 
 // inquirer for input
 inquirer

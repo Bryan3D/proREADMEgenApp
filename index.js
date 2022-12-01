@@ -6,6 +6,7 @@ const fs = require('fs');
 
 const generateMarkdown = ({ name, description, tableOf, hyperLink }) => `
 # ${name}
+--
 ## Description
 ${description}
 ## Table of Contents

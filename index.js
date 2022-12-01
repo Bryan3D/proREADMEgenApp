@@ -1,16 +1,18 @@
 
 //  import the inquirer
-const inquirer = import('inquirer');
+const inquirer = require('inquirer');
 //  file system requirer
 const fs = require('fs');
 
-// const Manager = require('./lib/Manager');
-// const Engineer = require('./lib/Engineer');
-// const Intern = require('./lib/Intern');
-// const generateHTML = require('./src/generateHTML');
-
-// README markup file generator
-const generateMarkdown = ({ name, description, tableOf, hyperLink }) => '\n# ' + name + ' \n---\n## Table of Contents\n---\n    -' + tableOf + '\n    \n## Project Description\n--- ' + description + '\n\n\n\n## Website project link\n---\n[Link here](' + hyperLink + ')\n\n';
+const generateMarkdown = ({ name, description, tableOf, hyperLink }) => `
+# ${name}
+## Description
+${description}
+## Table of Contents
+${tableOf}
+## Website link
+${hyperLink}
+`;
 
 
 // inquirer for input
@@ -24,13 +26,13 @@ inquirer
      },
      {
         // Project Description
-        desc: 'description',
+        name: 'description',
         message: 'Description of the project',
         type: 'input'
         },
         {
         // Table of Contents
-        tableOf: 'contents',
+        name: 'tableOf',
         message: 'Table of Contents of your project',
         type: 'checkbox',
         choices: ['description', 'Installation', 'Usage', 'Credits', 'License']
@@ -38,7 +40,7 @@ inquirer
         },
         {
         // App or website link of you project
-        hyperLink: 'webSite',
+        name: 'hyperLink',
         message: 'Input your website link project',
         type: 'input'
         },
@@ -57,7 +59,7 @@ inquirer
             console.log(err);
         } else {
             console.log(README);
-            fs.writeFile('README.md', markdown, (err) => {  
+            fs.writeFile('./doc/README.md', markdown, (err) => {  
                 if (err) {
                     console.log(err);
                 } else {

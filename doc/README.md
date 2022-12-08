@@ -1,5 +1,5 @@
 
-# test 
+# Test Project
 ---
 ## Table of Contents
 ---

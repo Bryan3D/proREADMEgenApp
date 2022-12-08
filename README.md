@@ -9,3 +9,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 - AS A developer
 - I WANT a README generator
 - SO THAT I can quickly create a professional README for a new project
+
+Video link demo
+
+[![Watch the video](https://pdx.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRUSEl3RE1Hd3JCLzdGazJNPS0tMTdiZTAxN2IyNzJhYjEwODc0N2RkOTU4NTE3YTUyMTBjZGE5MDc4Mw.mp4)

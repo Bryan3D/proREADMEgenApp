@@ -12,5 +12,5 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 Video link demo
 
-[![Watch the video]https://user-images.githubusercontent.com/10051887/206589398-50c59891-cfa9-4c8f-9a4b-ee3163a74f0c.mp4
+[Watch the video]https://user-images.githubusercontent.com/10051887/206589398-50c59891-cfa9-4c8f-9a4b-ee3163a74f0c.mp4
 

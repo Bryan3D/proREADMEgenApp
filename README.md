@@ -23,6 +23,12 @@ Video Demo presentation
 
 https://user-images.githubusercontent.com/10051887/206763800-24be5b83-ecd7-43a5-ad76-e7cd49dbed9e.mp4
 
+## Inquire
+
+---
+Feel free to contact me at bryanq2008@live.com with any questions about this project. Visit <https://github.com/Bryan3D> to see more of my projects.
+
+
 ## MIT License
 -- 
 Copyright (c) [2022] [README.md Generator App]

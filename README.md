@@ -5,7 +5,7 @@
 
 - [Professional README.md Generator App](#Professional README.md Generator App)
   - [Table of Contents](#table-of-contents)
-  - [Project Description](#Project-Description])
+  - [Project Description](#Project-Description)
   - [User Story](#User-Story)
   - [README.md link demo](#README.md-link-demo)
   - [Video Demo presentation](#Video-Demo-presentation)

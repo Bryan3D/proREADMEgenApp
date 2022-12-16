@@ -5,7 +5,7 @@
 
 - [Professional README.md Generator App](#Professional README.md Generator App)
   - [Table of Contents](#table-of-contents)
-  - [Project Description](#Project Description])
+  - [Project Description](#Project-Description])
   - [User Story](#User-Story)
   - [README.md link demo](#README-md-link-demo)
   - [Video Demo presentation](#Video-Demo-presentation)
@@ -43,7 +43,7 @@ Feel free to contact me at bryanq2008@live.com with any questions about this pro
 
 ## MIT License
 -- 
-Copyright (c) [2022] [README.md Generator App]
+Copyright (c) [2022] [README.md Generator App by Bryan A Quero]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

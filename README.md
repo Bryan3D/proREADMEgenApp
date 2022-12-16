@@ -1,7 +1,20 @@
 # Professional README.md Generator App
 ### "Ok, Project Creator. You've Been Too Busy to Think of a README. We Have"
 
-## A Readme Markup Generator Built For
+## Table of Contents
+
+- [Professional README.md Generator App](#Professional README.md Generator App)
+  - [Table of Contents](#table-of-contents)
+  - [Project Description](#Project Description])
+  - [User Story](#User Story)
+  - [Team Profile Generator Demo Image](#team-profile-generator-demo-image)
+  - [Team Profile Generator Demo Video](#team-profile-generator-demo-video)
+  - [Inquire](#inquire)
+  - [License](#license)
+
+## Project Description
+
+A Readme Markup Generator Built For
 
 The Professional README Markup Generator is a command-line application built to quickly and easily create a project overview README markdown file. The application is designed with minimal dependencies to allow you to use it on multiple platforms without having to worry about installing additional software. By using this application, the creator will be able to devote more time to working on their project instead of worrying about building a basic README.md file.
 
